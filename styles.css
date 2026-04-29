@@ -1,0 +1,8 @@
+#ai-ghost {
+  position: absolute;
+  pointer-events: none;
+  z-index: 2147483647;
+  color: rgba(120, 120, 120, 0.75);
+  overflow: hidden;
+  display: none;
+}
